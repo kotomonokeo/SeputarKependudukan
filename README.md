@@ -1,5 +1,5 @@
 Repositori ini merupakan kumpulan reels Pak [Zudan Arif](https://www.instagram.com/zudanarifofficial)  Dirjen Kependudukan
-seputar kependudukan dalam format yang lebih mudah dicari. [Link](https://www.instagram.com/reel/ChYnyuJFutr/)
+seputar kependudukan dalam format yang lebih mudah dicari.
 # SeputarKependudukan
 
 | Pertanyaan   | Jawaban   | Link |
