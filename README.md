@@ -1,1 +1,15 @@
+Repositori ini merupakan kumpulan reels Pak [Zudan Arif](https://www.instagram.com/zudanarifofficial)  Dirjen Kependudukan
+seputar kependudukan dalam format yang lebih mudah dicari. [Link](https://www.instagram.com/reel/ChYnyuJFutr/)
 # SeputarKependudukan
+
+| Pertanyaan   | Jawaban   | Link |
+| -- | -- | -- |
+| Suami saya pindah ke KK kota lain tanpa izin saya. Dan apakah kalau nanti dia membuat KK baru statusnya bisa diganti? kemudian dia menikah lagi. | Di dalam sistem administrasi kependudukan saya menyarankan kalau bapak-bapak mau pindah ke kota lain keluar dari KK beritahu istrinya. Karena apapun kepindahannya akan tetap mudah dilacak dalam sistem adminduk kita. Karena dengan diketik NIK-nya bisa diketahui pindah di mana. Dan kalau sudah menikah maka statusnya itu tetep akan menikah apalagi yg pernikahannya sudah tercatat. Karena untuk mengubah untuk belum kawin itu butuh penetapan pengadilan. Dengan cara pembatalan putusan atau pembatalan perkawinan pengadilan dengan cara penetapan pengadilan. Atau kalau mau merubah dengan status cerai harus ada putusan pengadilan tentang perceraian. Jadi dengan sistem adminduk kita seperti sekarang tidak mudah merubah data kependudukan sesuai hati kita. | [Link](https://www.instagram.com/reel/ChYnyuJFutr/)
+| Anak saya lahir di luar nikah dan tidak ada bapaknya. Bagaimana cara membuat kartu identitas anak (KIA) untuk anak saya? | KIA adalah hak anak. Kondisi anak seperti apapun punya ayah atau tidak tetep kita sebagai orang tua wajib membuatkan KIA. Syaratnya cukup KK dan KTP orang tua karena tidak memiliki buku nikah. Dan kalau anak sudah berumur 5 tahun dibawakan fotonya. Kalau di bawah 5 tahun tidak perlu foto. Tidak perlu pengantar RT/RW. | [Link](https://www.instagram.com/reel/ChYnnUxFHbe/)
+| Apakah ada layanan yang memberikan kemudahan secara khusus untuk penyandang disabilitas? |Saat ini pemerintah memberikan prioritas dan tindakan afirmatif untuk teman-teman disabilitas. Jadi kalau ada di sekitar kita penyandang disabilitas baik yg sensorik, motorik, atau apapun silahkan lapor ke dinas dukcapil. Kami berikan kemudahan pelayanan secara khusus kami akan jemput bola. Kita sudah berkomitmen dinas dukcapil seluruh Indonesia memberikan pelayanan jemput bola. Sekolah SLB, komunitas disabilitas, ataupun yayasan disabilitas silahkan hubungi kami dinas dukcapil setempat kami akan datang jemput bola. | [Link](https://www.instagram.com/reel/ChG4z0lFmic)
+| Apakah boleh dalam 1 alamat atau rumah ada lebih dari 1 KK? | Boleh. Tak ada Larangan. 1 Alamat boleh untuk beberapa KK.| [Link](https://www.instagram.com/reel/ChG4rHIFRkX/)
+| Bolehkah KTP ditahan ketika ada sewa-menyewa, untuk bekerja, atau untuk menjaga keamanan? | Pada prinsipnya tidak boleh. KTP bisa dibuat lagi. Cukup catat alamatnya. Jika ada kecurigaan akan identitas cek ke Dukcapil agar bisa dicek langsung.| [Link](https://www.instagram.com/p/CGAK7SQFmWL/)
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
